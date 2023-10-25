@@ -21,12 +21,12 @@ DOI:10.1287/ijoc.2022.0268.cd
 
 Below is the BibTex for citing this version of the code.
 ~~~
-@article{kdepotcode,
+@article{kdepotcode23lqx,
   title={Stabilizing Grand Cooperation via Cost Adjustment: An Inverse Optimization Approach},
   author={Lindong Liu and Xiangtong Qi and Zhou Xu},
   publisher={{INFORMS Journal on Computing}},
   year={2023},
-  doi={10.1287/ijoc.2022.0268.cd},
-  note={available for download at https://github.com/INFORMSJoC/2022.0268}
+  doi={},
+  note={available for download at https://github.com/INFORMSJoC/}
 }
 ~~~
